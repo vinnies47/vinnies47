@@ -59,6 +59,3 @@ Seeking an opportunity to apply academic knowledge in real-world QA environments
 VS Code | MySQL | React | Eclipse | Oracle  
 
 ---
-
-- ⚡ Fun fact: ...
--->
