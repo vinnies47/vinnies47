@@ -3,6 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:28a745,100:ffffff&height=200&section=header&text=Thaweerat%20Hutawarakorn&fontSize=40&animation=fadeIn&fontAlignY=35&desc=QA%20Software%20Tester%20|%20Final-Year%20IT%20Student&descAlignY=55&descAlign=50" />
 </div>
 
+<h1 align="center">
+  🌈✨ Welcome to My Profile ✨🌈  
+  <br>
+  <span style="color:#28a745;">Thaweerat Hutawarakorn</span>
+</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Role-QA%20Software%20Tester-28a745?style=for-the-badge">
   <img src="https://img.shields.io/badge/Focus-Automation%20Testing-00c853?style=for-the-badge">
@@ -68,13 +74,6 @@
 ## 🚀 Tools & Tech
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,go,cpp,python,html,css,react,mysql,git,vscode,eclipse,oracle&theme=light" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=green" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=green" height="150">
 </p>
 
 ---
