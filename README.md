@@ -1,4 +1,4 @@
-<h1 align="center">💻 Resume - Thaweerat Hutawarakorn</h1>
+<h1 align="center">💻 Resume </h1>
 
 <p align="center">
   <b>QA Software Tester | Final-Year IT Student</b><br>
