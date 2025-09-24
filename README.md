@@ -1,13 +1,18 @@
+<!-- 🌿 Header with Green-White Animated Gradient -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:28a745,100:ffffff&height=200&section=header&text=Thaweerat%20Hutawarakorn&fontSize=40&animation=fadeIn&fontAlignY=35&desc=QA%20Software%20Tester%20|%20Final-Year%20IT%20Student&descAlignY=55&descAlign=50" />
+</div>
+
 <h1 align="center">
   🌈✨ Welcome to My Profile ✨🌈  
   <br>
-  <span style="color:#ff5733;">Thaweerat Hutawarakorn</span>
+  <span style="color:#28a745;">Thaweerat Hutawarakorn</span>
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-QA%20Software%20Tester-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Automation%20Testing-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Language-Java%20%7C%20Python%20%7C%20Golang-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Role-QA%20Software%20Tester-28a745?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Automation%20Testing-00c853?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-Java%20%7C%20Python%20%7C%20Golang-2e7d32?style=for-the-badge">
 </p>
 
 ---
@@ -74,8 +79,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=green" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=green" height="150">
 </p>
 
 ---
@@ -83,12 +88,17 @@
 <h3 align="center">🔥 Let’s Connect 🔥</h3>
 <p align="center">
   <a href="mailto:thaweerat2547@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-d32f2f?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://github.com/USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20Repo-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Repo-333333?style=for-the-badge&logo=github">
   </a>
   <a href="https://linkedin.com/in/USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin">
   </a>
 </p>
+
+<!-- 🌿 Footer with Green-White Animated Gradient -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:28a745,100:ffffff&height=150&section=footer&animation=fadeIn" />
+</div>
