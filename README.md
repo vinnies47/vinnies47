@@ -1,8 +1,8 @@
-<h1 align="center">💻 Resume </h1>
+<h1 align="center" style="color:#2E86C1;">💻 Resume - Thaweerat Hutawarakorn</h1>
 
 <p align="center">
-  <b>QA Software Tester | Final-Year IT Student</b><br>
-  <i>Passionate about Software Quality Assurance and Automation Testing</i>
+  <b style="color:#117A65;">QA Software Tester | Final-Year IT Student</b><br>
+  <i style="color:#555;">Passionate about Software Quality Assurance and Automation Testing</i>
 </p>
 
 ---
@@ -18,14 +18,16 @@
 I am a final-year **Information Technology student** with strong interest in  
 **software quality assurance (QA)** and **automation testing**.  
 
-- ✅ Skilled in **Python, Java, HTML/CSS**  
-- ✅ Hands-on with **Robot Framework** and **Git**  
-- ✅ Seeking an opportunity to apply academic knowledge in real-world QA environments  
-- ✅ Aiming to grow as a professional in **software testing**  
+🌟 Skilled in **Python, Java, HTML/CSS**  
+🌟 Hands-on with **Robot Framework** and **Git**  
+🌟 Seeking an opportunity to apply academic knowledge in real-world QA environments  
+🌟 Aiming to grow as a professional in **software testing**  
 
 ---
 
 ## 🛠 Hard Skills
+<div align="center">
+
 | Category | Skills |
 |----------|--------|
 | **Programming** | Java, Golang, C++, Python, JSP |
@@ -34,14 +36,16 @@ I am a final-year **Information Technology student** with strong interest in
 | **Version Control** | Git, GitHub |
 | **Software** | VS Code, Eclipse, Oracle |
 
+</div>
+
 ---
 
 ## 🤝 Soft Skills
-- 💡 Teamwork: Collaborated on **web & game projects** with task delegation  
-- 📌 Agile Mindset: Familiar with **Agile methodology** & Co-Op projects  
-- 🔄 Collaboration: Experienced in **Git workflow**  
-- 🧑‍🤝‍🧑 Leadership: Worked as both **team leader** and **supporter**  
-- 🗣 Communication: Active in **team meetings** for coordination and problem solving  
+- 💡 **Teamwork:** Collaborated on web & game projects with task delegation  
+- 📌 **Agile Mindset:** Familiar with Agile methodology & Co-Op projects  
+- 🔄 **Collaboration:** Experienced in Git workflow  
+- 🧑‍🤝‍🧑 **Leadership:** Worked as both team leader and supporter  
+- 🗣 **Communication:** Active in team meetings for coordination and problem solving  
 
 ---
 
@@ -70,5 +74,5 @@ I am a final-year **Information Technology student** with strong interest in
 
 ## 🚀 Tools & Expertise
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,cpp,python,html,css,react,mysql,git,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,go,cpp,python,html,css,react,mysql,git,vscode,eclipse&perline=6" />
 </p>
