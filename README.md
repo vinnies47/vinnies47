@@ -3,12 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:28a745,100:ffffff&height=200&section=header&text=Thaweerat%20Hutawarakorn&fontSize=40&animation=fadeIn&fontAlignY=35&desc=QA%20Software%20Tester%20|%20Final-Year%20IT%20Student&descAlignY=55&descAlign=50" />
 </div>
 
-<h1 align="center">
-  🌈✨ Welcome to My Profile ✨🌈  
-  <br>
-  <span style="color:#28a745;">Thaweerat Hutawarakorn</span>
-</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Role-QA%20Software%20Tester-28a745?style=for-the-badge">
   <img src="https://img.shields.io/badge/Focus-Automation%20Testing-00c853?style=for-the-badge">
